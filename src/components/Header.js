@@ -1,5 +1,5 @@
 import React from 'react'
-
+import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 
 import About from './About';
 import Contact from './Contact';
@@ -7,6 +7,9 @@ import Services from './Services';
 import Gallery from './Gallery';
 import Specialists from './Specialists';
 import Blog from './Blog';
+import Home from './Home';
+// import Header from './Header';
+// import Footer from './Footer';
 
 export default function Header() {
   return (
@@ -31,6 +34,15 @@ export default function Header() {
         </div>
       </div>
     </nav>
+    <Routes>
+      <Route path="/" element={<Home />} />
+      <Route path="/about" element={<About />} />
+      <Route path="/services" element={<Services />} />
+      <Route path="/doctors" element={<Specialists />} />
+      <Route path="/blog" element={<Blog />} />
+      <Route path="/gallery" element={<Gallery />} />
+      <Route path="/contact" element={<Contact />} />
+    </Routes>
     </Router>
   );
 }

@@ -27,12 +27,12 @@ export default function Blog() {
                     </a>
                     <div className="text d-flex py-4">
                       <div className="meta mb-3">
-                        <div><a href="#">Sep. 20, 2018</a></div>
-                        <div><a href="#">Admin</a></div>
-                        <div><a href="#" className="meta-chat"><span className="icon-chat" /> 3</a></div>
+                        <div><a href="http://thedentalspecialistscentre.co.ke">Sep. 20, 2018</a></div>
+                        <div><a href="http://thedentalspecialistscentre.co.ke">Admin</a></div>
+                        <div><a href="http://thedentalspecialistscentre.co.ke" className="meta-chat"><span className="icon-chat" /> 3</a></div>
                       </div>
                       <div className="desc pl-sm-3 pl-md-5">
-                        <h3 className="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+                        <h3 className="heading"><a href="http://thedentalspecialistscentre.co.ke">Even the all-powerful Pointing has no control about the blind texts</a></h3>
                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
                         <p><a href="blog-single.html" className="btn btn-primary btn-outline-primary">Read more</a></p>
                       </div>
@@ -45,12 +45,12 @@ export default function Blog() {
                     </a>
                     <div className="text d-flex py-4">
                       <div className="meta mb-3">
-                        <div><a href="#">Sep. 20, 2018</a></div>
-                        <div><a href="#">Admin</a></div>
-                        <div><a href="#" className="meta-chat"><span className="icon-chat" /> 3</a></div>
+                        <div><a href="http://thedentalspecialistscentre.co.ke">Sep. 20, 2018</a></div>
+                        <div><a href="http://thedentalspecialistscentre.co.ke">Admin</a></div>
+                        <div><a href="http://thedentalspecialistscentre.co.ke" className="meta-chat"><span className="icon-chat" /> 3</a></div>
                       </div>
                       <div className="desc pl-sm-3 pl-md-5">
-                        <h3 className="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+                        <h3 className="heading"><a href="http://thedentalspecialistscentre.co.ke">Even the all-powerful Pointing has no control about the blind texts</a></h3>
                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
                         <p><a href="blog-single.html" className="btn btn-primary btn-outline-primary">Read more</a></p>
                       </div>
@@ -63,12 +63,12 @@ export default function Blog() {
                     </a>
                     <div className="text d-flex py-4">
                       <div className="meta mb-3">
-                        <div><a href="#">Sep. 20, 2018</a></div>
-                        <div><a href="#">Admin</a></div>
-                        <div><a href="#" className="meta-chat"><span className="icon-chat" /> 3</a></div>
+                        <div><a href="http://thedentalspecialistscentre.co.ke">Sep. 20, 2018</a></div>
+                        <div><a href="http://thedentalspecialistscentre.co.ke">Admin</a></div>
+                        <div><a href="http://thedentalspecialistscentre.co.ke" className="meta-chat"><span className="icon-chat" /> 3</a></div>
                       </div>
                       <div className="desc pl-sm-3 pl-md-5">
-                        <h3 className="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+                        <h3 className="heading"><a href="http://thedentalspecialistscentre.co.ke">Even the all-powerful Pointing has no control about the blind texts</a></h3>
                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
                         <p><a href="blog-single.html" className="btn btn-primary btn-outline-primary">Read more</a></p>
                       </div>
@@ -81,12 +81,12 @@ export default function Blog() {
                     </a>
                     <div className="text d-flex py-4">
                       <div className="meta mb-3">
-                        <div><a href="#">Sep. 20, 2018</a></div>
-                        <div><a href="#">Admin</a></div>
-                        <div><a href="#" className="meta-chat"><span className="icon-chat" /> 3</a></div>
+                        <div><a href="http://thedentalspecialistscentre.co.ke">Sep. 20, 2018</a></div>
+                        <div><a href="http://thedentalspecialistscentre.co.ke">Admin</a></div>
+                        <div><a href="http://thedentalspecialistscentre.co.ke" className="meta-chat"><span className="icon-chat" /> 3</a></div>
                       </div>
                       <div className="desc pl-sm-3 pl-md-5">
-                        <h3 className="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+                        <h3 className="heading"><a href="http://thedentalspecialistscentre.co.ke">Even the all-powerful Pointing has no control about the blind texts</a></h3>
                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
                         <p><a href="blog-single.html" className="btn btn-primary btn-outline-primary">Read more</a></p>
                       </div>
@@ -99,12 +99,12 @@ export default function Blog() {
                     </a>
                     <div className="text d-flex py-4">
                       <div className="meta mb-3">
-                        <div><a href="#">Sep. 20, 2018</a></div>
-                        <div><a href="#">Admin</a></div>
-                        <div><a href="#" className="meta-chat"><span className="icon-chat" /> 3</a></div>
+                        <div><a href="http://thedentalspecialistscentre.co.ke">Sep. 20, 2018</a></div>
+                        <div><a href="http://thedentalspecialistscentre.co.ke">Admin</a></div>
+                        <div><a href="http://thedentalspecialistscentre.co.ke" className="meta-chat"><span className="icon-chat" /> 3</a></div>
                       </div>
                       <div className="desc pl-sm-3 pl-md-5">
-                        <h3 className="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+                        <h3 className="heading"><a href="http://thedentalspecialistscentre.co.ke">Even the all-powerful Pointing has no control about the blind texts</a></h3>
                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
                         <p><a href="blog-single.html" className="btn btn-primary btn-outline-primary">Read more</a></p>
                       </div>
@@ -117,12 +117,12 @@ export default function Blog() {
                     </a>
                     <div className="text d-flex py-4">
                       <div className="meta mb-3">
-                        <div><a href="#">Sep. 20, 2018</a></div>
-                        <div><a href="#">Admin</a></div>
-                        <div><a href="#" className="meta-chat"><span className="icon-chat" /> 3</a></div>
+                        <div><a href="http://thedentalspecialistscentre.co.ke">Sep. 20, 2018</a></div>
+                        <div><a href="http://thedentalspecialistscentre.co.ke">Admin</a></div>
+                        <div><a href="http://thedentalspecialistscentre.co.ke" className="meta-chat"><span className="icon-chat" /> 3</a></div>
                       </div>
                       <div className="desc pl-sm-3 pl-md-5">
-                        <h3 className="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+                        <h3 className="heading"><a href="http://thedentalspecialistscentre.co.ke">Even the all-powerful Pointing has no control about the blind texts</a></h3>
                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
                         <p><a href="blog-single.html" className="btn btn-primary btn-outline-primary">Read more</a></p>
                       </div>

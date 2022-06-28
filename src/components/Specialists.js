@@ -34,10 +34,10 @@ export default function Specialists() {
                   <div className="text">
                     <p>Far far away, behind the word mountains, far from the countries Vokalia</p>
                     <ul className="ftco-social">
-                      <li className="ftco-animate"><a href="#"><span className="icon-twitter" /></a></li>
-                      <li className="ftco-animate"><a href="#"><span className="icon-facebook" /></a></li>
-                      <li className="ftco-animate"><a href="#"><span className="icon-instagram" /></a></li>
-                      <li className="ftco-animate"><a href="#"><span className="icon-google-plus" /></a></li>
+                      <li className="ftco-animate"><a href="http://thedentalspecialistscentre.co.ke"><span className="icon-twitter" /></a></li>
+                      <li className="ftco-animate"><a href="http://thedentalspecialistscentre.co.ke"><span className="icon-facebook" /></a></li>
+                      <li className="ftco-animate"><a href="http://thedentalspecialistscentre.co.ke"><span className="icon-instagram" /></a></li>
+                      <li className="ftco-animate"><a href="http://thedentalspecialistscentre.co.ke"><span className="icon-google-plus" /></a></li>
                     </ul>
                   </div>
                 </div>
@@ -52,10 +52,10 @@ export default function Specialists() {
                   <div className="text">
                     <p>Far far away, behind the word mountains, far from the countries Vokalia</p>
                     <ul className="ftco-social">
-                      <li className="ftco-animate"><a href="#"><span className="icon-twitter" /></a></li>
-                      <li className="ftco-animate"><a href="#"><span className="icon-facebook" /></a></li>
-                      <li className="ftco-animate"><a href="#"><span className="icon-instagram" /></a></li>
-                      <li className="ftco-animate"><a href="#"><span className="icon-google-plus" /></a></li>
+                      <li className="ftco-animate"><a href="http://thedentalspecialistscentre.co.ke"><span className="icon-twitter" /></a></li>
+                      <li className="ftco-animate"><a href="http://thedentalspecialistscentre.co.ke"><span className="icon-facebook" /></a></li>
+                      <li className="ftco-animate"><a href="http://thedentalspecialistscentre.co.ke"><span className="icon-instagram" /></a></li>
+                      <li className="ftco-animate"><a href="http://thedentalspecialistscentre.co.ke"><span className="icon-google-plus" /></a></li>
                     </ul>
                   </div>
                 </div>
@@ -70,10 +70,10 @@ export default function Specialists() {
                   <div className="text">
                     <p>Far far away, behind the word mountains, far from the countries Vokalia</p>
                     <ul className="ftco-social">
-                      <li className="ftco-animate"><a href="#"><span className="icon-twitter" /></a></li>
-                      <li className="ftco-animate"><a href="#"><span className="icon-facebook" /></a></li>
-                      <li className="ftco-animate"><a href="#"><span className="icon-instagram" /></a></li>
-                      <li className="ftco-animate"><a href="#"><span className="icon-google-plus" /></a></li>
+                      <li className="ftco-animate"><a href="http://thedentalspecialistscentre.co.ke"><span className="icon-twitter" /></a></li>
+                      <li className="ftco-animate"><a href="http://thedentalspecialistscentre.co.ke"><span className="icon-facebook" /></a></li>
+                      <li className="ftco-animate"><a href="http://thedentalspecialistscentre.co.ke"><span className="icon-instagram" /></a></li>
+                      <li className="ftco-animate"><a href="http://thedentalspecialistscentre.co.ke"><span className="icon-google-plus" /></a></li>
                     </ul>
                   </div>
                 </div>
@@ -88,10 +88,10 @@ export default function Specialists() {
                   <div className="text">
                     <p>Far far away, behind the word mountains, far from the countries Vokalia</p>
                     <ul className="ftco-social">
-                      <li className="ftco-animate"><a href="#"><span className="icon-twitter" /></a></li>
-                      <li className="ftco-animate"><a href="#"><span className="icon-facebook" /></a></li>
-                      <li className="ftco-animate"><a href="#"><span className="icon-instagram" /></a></li>
-                      <li className="ftco-animate"><a href="#"><span className="icon-google-plus" /></a></li>
+                      <li className="ftco-animate"><a href="http://thedentalspecialistscentre.co.ke"><span className="icon-twitter" /></a></li>
+                      <li className="ftco-animate"><a href="http://thedentalspecialistscentre.co.ke"><span className="icon-facebook" /></a></li>
+                      <li className="ftco-animate"><a href="http://thedentalspecialistscentre.co.ke"><span className="icon-instagram" /></a></li>
+                      <li className="ftco-animate"><a href="http://thedentalspecialistscentre.co.ke"><span className="icon-google-plus" /></a></li>
                     </ul>
                   </div>
                 </div>
@@ -106,10 +106,10 @@ export default function Specialists() {
                   <div className="text">
                     <p>Far far away, behind the word mountains, far from the countries Vokalia</p>
                     <ul className="ftco-social">
-                      <li className="ftco-animate"><a href="#"><span className="icon-twitter" /></a></li>
-                      <li className="ftco-animate"><a href="#"><span className="icon-facebook" /></a></li>
-                      <li className="ftco-animate"><a href="#"><span className="icon-instagram" /></a></li>
-                      <li className="ftco-animate"><a href="#"><span className="icon-google-plus" /></a></li>
+                      <li className="ftco-animate"><a href="http://thedentalspecialistscentre.co.ke"><span className="icon-twitter" /></a></li>
+                      <li className="ftco-animate"><a href="http://thedentalspecialistscentre.co.ke"><span className="icon-facebook" /></a></li>
+                      <li className="ftco-animate"><a href="http://thedentalspecialistscentre.co.ke"><span className="icon-instagram" /></a></li>
+                      <li className="ftco-animate"><a href="http://thedentalspecialistscentre.co.ke"><span className="icon-google-plus" /></a></li>
                     </ul>
                   </div>
                 </div>
@@ -124,10 +124,10 @@ export default function Specialists() {
                   <div className="text">
                     <p>Far far away, behind the word mountains, far from the countries Vokalia</p>
                     <ul className="ftco-social">
-                      <li className="ftco-animate"><a href="#"><span className="icon-twitter" /></a></li>
-                      <li className="ftco-animate"><a href="#"><span className="icon-facebook" /></a></li>
-                      <li className="ftco-animate"><a href="#"><span className="icon-instagram" /></a></li>
-                      <li className="ftco-animate"><a href="#"><span className="icon-google-plus" /></a></li>
+                      <li className="ftco-animate"><a href="http://thedentalspecialistscentre.co.ke"><span className="icon-twitter" /></a></li>
+                      <li className="ftco-animate"><a href="http://thedentalspecialistscentre.co.ke"><span className="icon-facebook" /></a></li>
+                      <li className="ftco-animate"><a href="http://thedentalspecialistscentre.co.ke"><span className="icon-instagram" /></a></li>
+                      <li className="ftco-animate"><a href="http://thedentalspecialistscentre.co.ke"><span className="icon-google-plus" /></a></li>
                     </ul>
                   </div>
                 </div>
@@ -142,10 +142,10 @@ export default function Specialists() {
                   <div className="text">
                     <p>Far far away, behind the word mountains, far from the countries Vokalia</p>
                     <ul className="ftco-social">
-                      <li className="ftco-animate"><a href="#"><span className="icon-twitter" /></a></li>
-                      <li className="ftco-animate"><a href="#"><span className="icon-facebook" /></a></li>
-                      <li className="ftco-animate"><a href="#"><span className="icon-instagram" /></a></li>
-                      <li className="ftco-animate"><a href="#"><span className="icon-google-plus" /></a></li>
+                      <li className="ftco-animate"><a href="http://thedentalspecialistscentre.co.ke"><span className="icon-twitter" /></a></li>
+                      <li className="ftco-animate"><a href="http://thedentalspecialistscentre.co.ke"><span className="icon-facebook" /></a></li>
+                      <li className="ftco-animate"><a href="http://thedentalspecialistscentre.co.ke"><span className="icon-instagram" /></a></li>
+                      <li className="ftco-animate"><a href="http://thedentalspecialistscentre.co.ke"><span className="icon-google-plus" /></a></li>
                     </ul>
                   </div>
                 </div>
@@ -160,10 +160,10 @@ export default function Specialists() {
                   <div className="text">
                     <p>Far far away, behind the word mountains, far from the countries Vokalia</p>
                     <ul className="ftco-social">
-                      <li className="ftco-animate"><a href="#"><span className="icon-twitter" /></a></li>
-                      <li className="ftco-animate"><a href="#"><span className="icon-facebook" /></a></li>
-                      <li className="ftco-animate"><a href="#"><span className="icon-instagram" /></a></li>
-                      <li className="ftco-animate"><a href="#"><span className="icon-google-plus" /></a></li>
+                      <li className="ftco-animate"><a href="http://thedentalspecialistscentre.co.ke"><span className="icon-twitter" /></a></li>
+                      <li className="ftco-animate"><a href="http://thedentalspecialistscentre.co.ke"><span className="icon-facebook" /></a></li>
+                      <li className="ftco-animate"><a href="http://thedentalspecialistscentre.co.ke"><span className="icon-instagram" /></a></li>
+                      <li className="ftco-animate"><a href="http://thedentalspecialistscentre.co.ke"><span className="icon-google-plus" /></a></li>
                     </ul>
                   </div>
                 </div>

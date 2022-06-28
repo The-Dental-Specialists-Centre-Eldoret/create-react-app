@@ -60,7 +60,7 @@ export default function Contact() {
               </form>
             </div>
             <div className="col-md-6">
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.6627557211455!2d35.292303014768066!3d0.5059619996308586!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x178101bc7a56da7b%3A0xac2ae4a33a0192a!2sThe%20Dental%20Specialists%E2%80%99%20Centre%20-%20Eldoret!5e0!3m2!1sen!2ske!4v1630308559789!5m2!1sen!2ske" width={600} height={450} style={{border: 0}} allowFullScreen loading="lazy" />
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.6627557211455!2d35.292303014768066!3d0.5059619996308586!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x178101bc7a56da7b%3A0xac2ae4a33a0192a!2sThe%20Dental%20Specialists%E2%80%99%20Centre%20-%20Eldoret!5e0!3m2!1sen!2ske!4v1630308559789!5m2!1sen!2ske" title='map' width={600} height={450} style={{border: 0}} allowFullScreen loading="lazy" />
             </div>
           </div>
         </div>
