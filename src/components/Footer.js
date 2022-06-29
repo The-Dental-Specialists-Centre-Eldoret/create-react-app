@@ -43,7 +43,7 @@ export default function Footer() {
       <div className="row">
         <div className="col-md-12 text-center">
           <p>{/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
-            ©  | <a rel="nofollow noopener" href="https://thedentalspecialistscentre.co.ke/" target="_blank">The Dental Specialists' Centre | Eldoret</a><br />
+            ©  | <a href="https://thedentalspecialistscentre.co.ke/" target="_blank" rel="noreferrer">The Dental Specialists' Centre | Eldoret</a><br />
             {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}</p>
         </div>
       </div>
