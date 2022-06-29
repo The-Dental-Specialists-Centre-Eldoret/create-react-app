@@ -186,7 +186,7 @@ export default function Services() {
                   <li>Surgical Extractions</li>
                   <li>Teeth Whitening</li>
                 </ul>
-                <p className="button text-center"><a href="#" className="btn btn-primary btn-outline-primary px-4 py-3">Order now</a></p>
+                <p className="button text-center"><a href="http://thedentalspecialistscentre.co.ke" className="btn btn-primary btn-outline-primary px-4 py-3">Order now</a></p>
               </div>
             </div>
             <div className="col-md-3 ftco-animate">
@@ -202,7 +202,7 @@ export default function Services() {
                   <li>Surgical Extractions</li>
                   <li>Teeth Whitening</li>
                 </ul>
-                <p className="button text-center"><a href="#" className="btn btn-primary btn-outline-primary px-4 py-3">Order now</a></p>
+                <p className="button text-center"><a href="http://thedentalspecialistscentre.co.ke" className="btn btn-primary btn-outline-primary px-4 py-3">Order now</a></p>
               </div>
             </div>
             <div className="col-md-3 ftco-animate">
@@ -218,7 +218,7 @@ export default function Services() {
                   <li>Surgical Extractions</li>
                   <li>Teeth Whitening</li>
                 </ul>
-                <p className="button text-center"><a href="#" className="btn btn-primary btn-outline-primary px-4 py-3">Order now</a></p>
+                <p className="button text-center"><a href="http://thedentalspecialistscentre.co.ke" className="btn btn-primary btn-outline-primary px-4 py-3">Order now</a></p>
               </div>
             </div>
             <div className="col-md-3 ftco-animate">
@@ -234,7 +234,7 @@ export default function Services() {
                   <li>Surgical Extractions</li>
                   <li>Teeth Whitening</li>
                 </ul>
-                <p className="button text-center"><a href="#" className="btn btn-primary btn-outline-primary px-4 py-3">Order now</a></p>
+                <p className="button text-center"><a href="http://thedentalspecialistscentre.co.ke" className="btn btn-primary btn-outline-primary px-4 py-3">Order now</a></p>
               </div>
             </div>
           </div>
